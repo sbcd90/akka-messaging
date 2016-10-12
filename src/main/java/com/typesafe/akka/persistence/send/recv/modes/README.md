@@ -1,0 +1,4 @@
+akka-messaging
+==============
+
+This directory contains code for **Actor System with different massage modes**.
